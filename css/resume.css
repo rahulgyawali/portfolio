@@ -109,6 +109,14 @@ section.resume-section {
 .text-primary {
   color: #BD5D38 !important; }
 
+.circular-image {
+    width: 5px; /* Adjust size as needed */
+    height: 5px; /* Adjust size as needed */
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
 a {
   color: #BD5D38; }
   a:hover, a:focus, a:active {
